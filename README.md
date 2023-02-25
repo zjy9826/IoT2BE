@@ -15,6 +15,6 @@ This is the transformation and feature extraction of business events.
 
 # Datasets
 
-The dataset file is located in the "data" directory.
+The dataset file is located in the "dataset" directory.
 The file format is .npy, which can be read using numpy in Python.
 The dataset has a 3-dimensional shape of [n,m,k], where n represents the number of business event records, m represents the number of business events in each record, and k represents the number of feature attributes for each business event.
